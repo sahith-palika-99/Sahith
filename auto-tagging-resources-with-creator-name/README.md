@@ -1,4 +1,4 @@
-#Auto-tagging resources with the username
+# Auto-tagging resources with the username
 
 Over time, these resources tend to accumulate, and it becomes challenging to determine which ones are still necessary. When we finally realize the magnitude of the resources and the need to evaluate their relevance, it requires bringing in the account owner for a manual review and potential deletion of unnecessary items.
 
